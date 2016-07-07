@@ -1,0 +1,16 @@
+1. d. All the above
+2. d.All of these
+3. a.Nutch
+4. c. hdfs
+5. c. Petabytes
+6. b. No
+7. c. Java
+8. a. Using commodity Hardware
+9. c. Solr
+10. a. Storm
+11. b.exabyte
+12. a. Number of nodes keep changing
+13. a.processing of previously collected jobs in a single batch.
+14. a.Processing data as streams
+15. a.Batch processing
+
